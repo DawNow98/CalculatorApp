@@ -44,7 +44,7 @@ Skills Demonstrated
 
 How to Run
 1. Clone the repository:
-- git clone https://github.com/your-username/calculator-app.git
+- git clone https://github.com/DawNow98/calculator-app.git
 2. Open the project in Xcode.
 3. Build and run the app on any iOS simulator or physical device.
 4. Rotate the device or simulator to test adaptive layouts in portrait and landscape modes.
